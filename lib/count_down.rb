@@ -4,4 +4,6 @@ count_down = 10
 count= 0
 
 while count>= count_down do
-  count_down -=1
+  puts (count_down -=1)
+  
+  
