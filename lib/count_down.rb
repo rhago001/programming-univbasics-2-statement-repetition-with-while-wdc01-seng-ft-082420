@@ -1,12 +1,11 @@
 # Write your code here
 
-count_down = 10
-count= 0
+count= 10
 
-while count<= count_down do
-  puts (count_down -=1)
+while coun><= 1 do
+  puts count -=1
   
-  count=+1
+  count-=1
   
 end 
 Puts "Happy New Year!"
