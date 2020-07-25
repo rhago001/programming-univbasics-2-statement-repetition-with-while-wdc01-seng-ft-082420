@@ -3,7 +3,7 @@
 count_down = 10
 count= 0
 
-while count>= count_down && count!=1 do
+while count>= count_down && count!=0 do
   puts (count_down -=1)
   
   
